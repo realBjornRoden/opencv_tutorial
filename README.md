@@ -5,7 +5,7 @@ This repository contains code presented during an OpenCV tutorial at PyData Wars
 
 If you start your journey with OpenCV, I encourage you to check a video from the conference:
 
-Video url: to be provided
+Video url: https://youtu.be/XUOSnB_QWtw
 
 Cheers!
 
